@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ymo:home|Door43 (ymo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ymo|d43-ymo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ymo/archive/master.zip|d43-ymo.zip]]
+
+**Recent Changes**
+{{changes>ns = ymo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ymo|Ethnologue data]]
+
